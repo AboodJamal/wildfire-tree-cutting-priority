@@ -1,0 +1,49 @@
+======================================================================
+FIRE CREEK TREE CUTTING PRIORITY ANALYSIS - REPORT
+======================================================================
+
+1. STUDY AREA
+----------------------------------------
+Total grid cells analyzed: 80
+
+2. WEIGHTS APPLIED
+----------------------------------------
+Tree Mortality           : 25%
+Community Features       : 20%
+Egress Routes            : 20%
+Populated Areas          : 20%
+Electric Utilities       : 15%
+
+3. PRIORITY DISTRIBUTION
+----------------------------------------
+Very High   :     2 cells (  2.50%)
+High        :    12 cells ( 15.00%)
+Medium      :    19 cells ( 23.75%)
+Low         :    27 cells ( 33.75%)
+Very Low    :    20 cells ( 25.00%)
+
+4. TOP 10 HIGHEST PRIORITY CELLS
+----------------------------------------
+Rank    1 | Score: 10.00 | Class: Very High
+Rank    2 | Score: 8.73 | Class: Very High
+Rank    3 | Score: 7.55 | Class: High
+Rank    4 | Score: 7.38 | Class: High
+Rank    5 | Score: 7.31 | Class: High
+Rank    6 | Score: 7.24 | Class: High
+Rank    7 | Score: 7.20 | Class: High
+Rank    8 | Score: 7.14 | Class: High
+Rank    9 | Score: 6.74 | Class: High
+Rank   10 | Score: 6.72 | Class: High
+
+5. RECOMMENDATIONS
+----------------------------------------
+• 2 cells require IMMEDIATE attention
+• 12 cells should be addressed soon
+• Focus on:
+  - Areas with high tree mortality
+  - Cells near community facilities
+  - Zones along evacuation routes
+  - High population density areas
+  - Critical utility infrastructure
+
+======================================================================

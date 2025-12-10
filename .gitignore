@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+*.log
+.ipynb_checkpoints/
+
+# Large data files (optional - uncomment if data files are too large)
+# data/*.shp
+# data/*.dbf
+# data/*.shx
+# data/*.prj
+
+# Backup files
+*_backup.*
+*.bak
