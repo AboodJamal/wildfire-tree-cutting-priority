@@ -476,9 +476,9 @@ The weight allocation was validated through sensitivity testing:
 
 ---
 
-## Author
+## Authors
 
-**Abdullah Jamal**  
+**Abdallah Alharrem & Hossam Shehadeh**  
 Spatial Data Analysis Course  
 Fourth Year, First Term  
 Fire Creek Tree Cutting Priority Analysis using Multi-Criteria GIS

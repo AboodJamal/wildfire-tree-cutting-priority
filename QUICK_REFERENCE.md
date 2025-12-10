@@ -319,4 +319,4 @@ Bounds:
 **Document Version:** 1.0  
 **Last Updated:** December 10, 2025  
 **For:** Fire Creek Tree Cutting Priority Analysis  
-**Author:** Abdullah Jamal
+**Authors:** Abdallah Alharrem & Hossam Shehadeh

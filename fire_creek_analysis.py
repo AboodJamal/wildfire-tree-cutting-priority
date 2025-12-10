@@ -10,7 +10,7 @@ based on five factors:
     4. Populated Areas (PopulatedAreast)
     5. Electric Utilities (Transmission, SubTransmission, DistCircuits, Substations, PoleTopSubs)
 
-Author: Spatial Data Analysis Project
+Authors: Abdallah Alharrem & Hossam Shehadeh
 Date: December 2025
 """
 
