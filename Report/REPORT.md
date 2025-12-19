@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="docs/priority_map.png" alt="Fire Creek Priority Analysis" width="800"/>
+  <img src="../docs/priority_map.png" alt="Fire Creek Priority Analysis" width="800"/>
 </p>
 
 ---
@@ -237,7 +237,7 @@ Different normalization functions are used based on factor characteristics:
 ### 4.1 Conceptual Model
 
 <p align="center">
-  <img src="docs/factor_maps.png" alt="Factor Analysis Maps" width="800"/>
+  <img src="../docs/factor_maps.png" alt="Factor Analysis Maps" width="800"/>
 </p>
 
 **Figure 1:** Six-panel visualization showing individual factor scores and overall priority
@@ -630,7 +630,7 @@ class FireCreekAnalysis:
 ### 6.1 Priority Score Distribution
 
 <p align="center">
-  <img src="docs/priority_classes_map.png" alt="Priority Classification Map" width="800"/>
+  <img src="../docs/priority_classes_map.png" alt="Priority Classification Map" width="800"/>
 </p>
 
 **Figure 2:** Five-class priority map showing spatial distribution of priority levels
